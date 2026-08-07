@@ -1,0 +1,14 @@
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\Exercicio.AssemblyInfoInputs.cache
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\Exercicio.AssemblyInfo.cs
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\DevC\Exercicio\Exercicio\bin\Debug\net10.0\Exercicio.exe
+C:\DevC\Exercicio\Exercicio\bin\Debug\net10.0\Exercicio.deps.json
+C:\DevC\Exercicio\Exercicio\bin\Debug\net10.0\Exercicio.runtimeconfig.json
+C:\DevC\Exercicio\Exercicio\bin\Debug\net10.0\Exercicio.dll
+C:\DevC\Exercicio\Exercicio\bin\Debug\net10.0\Exercicio.pdb
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\Exercicio.dll
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\refint\Exercicio.dll
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\Exercicio.pdb
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\Exercicio.genruntimeconfig.cache
+C:\DevC\Exercicio\Exercicio\obj\Debug\net10.0\ref\Exercicio.dll
