@@ -1,5 +1,3 @@
-﻿using TESTEE;
-
 namespace ConsoleApp1
 {
     internal class Program
@@ -10,7 +8,11 @@ namespace ConsoleApp1
             c1.Modelo = "Fusca";
             c1.Ano = 1990;
             c1.Velocidade = 1;
+
+
+            Console.WriteLine($"modelo é {c1.Modelo}");
         }
+
+        
     }
 }
-
